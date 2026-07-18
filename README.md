@@ -21,4 +21,4 @@ Al finalizar se crea `out.png` en la raíz del proyecto con una resolución de
 
 ## Resultado
 
-![Resultado del Scanline Fill](out.png)
+![Resultado del Scanline Fill](out.bmp)
