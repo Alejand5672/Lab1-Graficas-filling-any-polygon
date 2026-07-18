@@ -73,5 +73,5 @@ fn main() {
         Color::GREEN,
     );
 
-    framebuffer.render_to_file("out.bmp");
+    framebuffer.render_to_file("output.bmp");
 }
